@@ -4,7 +4,7 @@ Meu nome é Luisa
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse esopaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse esapaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### você entra em contato comigo 📫
 
